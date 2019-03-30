@@ -1,0 +1,15 @@
+    .animal img:hover {
+        
+ 		height:350px;
+ 		width:350px;
+ 		padding-top: 30px;
+    }
+    *{
+    	list-style-type: none;
+    	float:left;
+    	padding: 30px;
+    	text-decoration: none;
+    	color: black;
+    	margin-top: -24px;
+    }
+   
